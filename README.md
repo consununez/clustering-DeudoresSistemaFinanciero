@@ -1,17 +1,15 @@
 ## Proyecto
 
-Proyecto de análisis y modelado de datos de un dataset de la Central de Deudores del Sistema Financiero provisto por el BCRA, para la Diplomatura en 
+Proyecto de análisis y modelado de datos de un dataset de la Central de Deudores del Sistema Financiero provisto por el BCRA, para la Diplomatura en
 Ciencia de Datos e Inteligencia Artificial dictada por FAMAF.
-Trabajo realizado en tres notebook de Python: Preprocesamiento de datos; Análisis Exploratorio de datos; Modelado de datos. 
-
+Trabajo realizado en tres notebook de Python: Preprocesamiento de datos; Análisis Exploratorio de datos; Modelado de datos.
 
 ### Objetivos
 
-A partir de la información obtenida de la Central de Deudores del BCRA, El objetivo es realizar un análisis exhaustivo de las personas que se 
-encuentran dentro del dataset y poder realizar un clustering en base a los tipos de personas, al género en caso de la personas físicas, al monto de deuda, 
-al tipo de entidad que otorgó el crédito y a si la deuda se encuentra en default o no. De esta manera buscamos conformar distintos grupos de deudores que 
+A partir de la información obtenida de la Central de Deudores del BCRA, el objetivo es realizar un análisis exhaustivo de las personas que se
+encuentran dentro del dataset y poder realizar un clustering en base a los tipos de personas, al género en caso de la personas físicas, al monto de deuda,
+al tipo de entidad que otorgó el crédito y a si la deuda se encuentra en default o no. De esta manera buscamos conformar distintos grupos de deudores que
 permitan realizar comparaciones interesantes y útiles entre los mismos.
-
 
 ### Conclusiones
 
